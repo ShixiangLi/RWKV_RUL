@@ -1,4 +1,4 @@
-# rwkv_rul
+# RWKV_RUL
 RWKV for industrial time-series prediction
 
 ## Introduction
